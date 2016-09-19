@@ -1,0 +1,7 @@
+{
+	"restaurante": [
+      {"nome": "KFC", "price": "Barato"},
+      {"nome": "DOROSARIO", "price": "Barato"},
+      {"nome": "CHURRASQUINHO", "price": "Barato"}
+    ]
+}
